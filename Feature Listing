@@ -1,5 +1,6 @@
 Point Of Sale
 Client Side (sales) Features
+- Create Account
 - Inventory (View, Edit)
 - Reports
 - Account Manager
@@ -16,4 +17,9 @@ Community features
 Client Side (Admin) features
 - User Manager (Add, Remove, Suspend, Password Reset)
 - Reports
+- Store Manager (Add, remove, Suspend)
+- 
+
+Back Office Admin Features
+- Manage Users(Add, Remove, Suspend, Password Reset)
 - 
